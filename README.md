@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @luckymouse2332
 - 👀 I’m interested in Front-end development
-- 🌱 I’m currently learning Front-end development
+- 🌱 I’m learning Front-end development
 - 📫 How to reach me: At bilibili.com@凑成的mouse
 
 # 关于我自己
